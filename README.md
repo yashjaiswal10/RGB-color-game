@@ -1,1 +1,1 @@
-# RGB-color-game
+# Simple RGB-color-guessing-game
